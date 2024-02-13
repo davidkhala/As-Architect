@@ -17,6 +17,8 @@ by using consumer groups—multiple consumers sharing a single channel or queue.
 The scale of the overall receiving application is increased by having multiple consumers, but each message is still only delivered to a single endpoint. 
 
 ## pattern: Request-Reply
+![image](https://github.com/davidkhala/As-Architect/assets/7227589/3f9b1c18-d254-45f6-bf94-c0da49ce7f60)
+
 applications achieve two-way communication using separate point-to-point channels: one for requests, and another for replies.
 
 
