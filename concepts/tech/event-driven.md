@@ -4,3 +4,23 @@ It is time to stop technical only brain.
 "A key distinction of a digital business is that it's a **event-centric**, which means it's always **sensing**, always **ready** and always **learning**" ---- Gartner
 
 Technology goals for event driven is to deliver better customer experience.
+# Design
+## Being distributed:
+### Retry Pattern: solution for transient unavailability of failure of a component
+Scenario
+- Request for configuration / init information
+- Request for login
+Implement
+- Timeout logic
+- Retry logic: finite vs infinite (max times)
+- Back-off / anti-flood parameters (DDoS), e.g. exponential growing timeout interval
+### Idempotent Processor Pattern: solution for receiving duplicate data
+Scenario
+- New order submission
+Implement
+- sequence # / unique id
+- Other duplicate detection and suppression. e.g. hash(all fields + current timestamp)
+- Retransmit flag inspection (重传标志检查), powered by Solace
+### Pub-Sub Pattern
+- Being Scalable
+- Data Handling
