@@ -9,6 +9,7 @@
 Industry has found its faster to build app in microservice by full-stack dev vs by team with role assigned by tech stack
 
 
+
 # [Compared to SOA](https://www.atlassian.com/microservices/microservices-architecture/soa-vs-microservices)
 - Larger, centralized teams can manage SOA. Microservices demand a higher degree of expertise and collaboration within smaller teams.
 - SOA involves more centralized planning and integration. Microservice architecture facilitates faster development with independent deployments.
