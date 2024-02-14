@@ -4,6 +4,7 @@
 - Infra automation with CD is must
 - Focus business capabilities instead of around tech
 - Component-ization: independently replace parts of a system
+- Avoid migration of legacy apps to anywhere (e.g. towards cloud native)
 
 Industry has found its faster to build app in microservice by full-stack dev vs by team with role assigned by tech stack
 
