@@ -1,4 +1,10 @@
 [Introduction to Microservices Governance](https://medium.com/microservices-learning/introduction-to-microservices-governance-part-i-53f407d7ec62)
+- Smart endpoints and dump pipes: avoid using Enterprise Service Bus (ESB)
+- 1 db for each service(?)
+- Infra automation with CD is must
+- Around business capabilities instead of around tech
+- Component-ization: independently replace parts of a system
+
 
 # [Compared to SOA](https://www.atlassian.com/microservices/microservices-architecture/soa-vs-microservices)
 - Larger, centralized teams can manage SOA. Microservices demand a higher degree of expertise and collaboration within smaller teams.
