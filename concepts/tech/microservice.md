@@ -1,5 +1,5 @@
 [Introduction to Microservices Governance](https://medium.com/microservices-learning/introduction-to-microservices-governance-part-i-53f407d7ec62)
-- Smart endpoints and dump pipes: avoid using Enterprise Service Bus (ESB)
+- Smart endpoints and dump pipes: avoid using Enterprise Service Bus (ESB). Business logic and app is not infra, it should not be designed in ESB
 - 1 db for each service(?)
 - Infra automation with CD is must
 - Focus business capabilities instead of around tech
