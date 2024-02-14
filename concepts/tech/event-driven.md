@@ -10,6 +10,7 @@ Technology goals for event driven is to deliver better customer experience.
 Scenario
 - Request for configuration / init information
 - Request for login
+
 Implement
 - Timeout logic
 - Retry logic: finite vs infinite (max times)
@@ -17,10 +18,21 @@ Implement
 ### Idempotent Processor Pattern: solution for receiving duplicate data
 Scenario
 - New order submission
+
 Implement
 - sequence # / unique id
 - Other duplicate detection and suppression. e.g. hash(all fields + current timestamp)
 - Retransmit flag inspection (重传标志检查), powered by Solace
-### Pub-Sub Pattern
-- Being Scalable
-- Data Handling
+### Pub-Sub Pattern: solution for sending to unknown n-consumers
+Scenario
+- Catalogue update
+- Status, Heartbeat
+
+Implement
+- Decoupling via intermediate component (Middleware)
+- by data, e.g. event/topic/channel
+## Being Scalable
+### Async Request-Reply Pattern: solution for blocked waiting on a slower service 
+### Queue-Based Load Leveling Pattern
+### Competing Consumer Pattern
+## Data Handling
