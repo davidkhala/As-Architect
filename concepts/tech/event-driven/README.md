@@ -5,7 +5,7 @@ It is time to stop technical only brain.
 
 Technology goals for event driven is to deliver better customer experience.
 # Design
-## Being distributed:
+## Being distributed
 ### Retry Pattern: solution for transient unavailability of failure of a component
 Scenario
 - Request for configuration / init information
