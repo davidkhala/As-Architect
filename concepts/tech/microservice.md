@@ -18,6 +18,7 @@ Industry has found its faster to build app in microservice by full-stack dev vs 
 Don't use microservice if you write application which is
 - small
 - Not business critical
-- single app dev team, single schedules and milestones
-- Organization and role is aligned by tech stacks (backend service dev, UI, middleware, DBA), not by business capability implemented by full stack dev
+- to be built by single app dev team and/or with single schedules and milestones
+- to be built by organization and role is aligned by tech stacks (backend service dev, UI, middleware, DBA), not by business capability implemented by full stack dev
+- designed in infra mindset
 
