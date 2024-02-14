@@ -5,3 +5,8 @@
 - SOA involves more centralized planning and integration. Microservice architecture facilitates faster development with independent deployments.
 - SOA highlights on reusability and interoperability. Require strong governance structure and mature development processes.
 - Microservice highlights on speed, agility, flexibility, and fault isolation. Require companies with a DevOps culture focusing on continuous delivery.
+
+# Drawback
+Don't use microservice if you write application which is
+- small
+- Not business critical 
