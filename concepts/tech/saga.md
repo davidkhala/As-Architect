@@ -1,4 +1,4 @@
-
+# Saga pattern
 # Definitions
 Alias: Long-running transaction | Long-lived transaction
 - Wikipedia: The saga interaction pattern are computer database transactions that avoid locks on non-local resources, use compensation to handle failures, potentially aggregate smaller ACID / atomic transactions, and typically use a coordinator to complete or abort the transaction. In contrast to rollback in ACID transactions, compensation restores the original state and is business-specific.
@@ -9,5 +9,7 @@ Alias: Long-running transaction | Long-lived transaction
 These protocols use a coordinator to mediate the successful completion or use of compensation in a long-running transaction.??
 
 
-## Drawback
-It creates challenges of concurrency control and scalability.
+## Caveats
+- [The Saga pattern can only be used to logically roll back transactions due to business errors, but not respond to technical errors.](https://www.ufried.com/blog/limits_of_saga_pattern/)
+- concurrency control
+- scalability.
