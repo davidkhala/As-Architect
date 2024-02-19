@@ -9,6 +9,5 @@ Saga provides a reliable basis for the business layer by hiding the imponderabil
 
 ## Caveats
 - [The Saga pattern can only be used to logically roll back transactions due to business errors, but not respond to technical errors.](https://www.ufried.com/blog/limits_of_saga_pattern/)
-- concurrency control
-- scalability??
-- Additional coordinator like 2pc
+- If you need the Saga pattern too often, it is a hint for a design smell, please check whether your services are organized around entities instead of use cases/user interactions
+- Additional coordinator like 2pc introduce components complexity.
