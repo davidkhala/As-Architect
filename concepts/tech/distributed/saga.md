@@ -6,10 +6,6 @@ Alias: Long-running transaction | Long-lived transaction
 
 Saga provides a reliable basis for the business layer by hiding the imponderabilities of distribution from the business layer.
 
-## Frameworks
-### OASIS Business Transaction Processing and WS-CAF
-These protocols use a coordinator to mediate the successful completion or use of compensation in a long-running transaction.??
-
 
 ## Caveats
 - [The Saga pattern can only be used to logically roll back transactions due to business errors, but not respond to technical errors.](https://www.ufried.com/blog/limits_of_saga_pattern/)
