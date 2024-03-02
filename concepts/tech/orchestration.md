@@ -2,7 +2,9 @@ Orchestration is like an air traffic control tower directing planes, or microser
 
 One service, a “super microservice” if you will, functions as the message broker sending messages directly to individual microservices telling them what to do
 
-![image](https://github.com/davidkhala/As-Architect/assets/7227589/7fa7c417-30d8-401d-822c-5f49b8652425)
+![image](https://images.ctfassets.net/0uuz8ydxyd9p/6mYJT05Hrcg8RsHuCn3xU9/0268b5f27143e78d96b110be5b5d27aa/ezgif.com-optimize__6_.gif)
+
+
 
 - Easier to build with greenfield applications
 
