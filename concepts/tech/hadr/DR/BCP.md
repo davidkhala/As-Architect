@@ -6,7 +6,7 @@ Focused on business objectives (business requirements, priorities, and context) 
 > An earthquake might prevent you from transporting products purchased on your eCommerce application – even if effective DR keeps your workload functioning, your BCP needs to accommodate transportation needs.
 
 It includes
-- disaster recovery plan
+- [disaster recovery plan](./plan.md)
 
 ## Business impact analysis (BIS) and risk assessment
 
@@ -21,25 +21,3 @@ A *business impact analysis* should
 A *risk assessment* determine the probability of disruption occurring, based on
 - the type of disaster and geographical impact
 - an overview of the technical implementation of your workload
-
-# Disaster Recovery strategy plan
-Broadly 4 DR strategies
-- backup and restore
-- pilot light
-- warm standby
-- multi-site active/active
-  > active/active in DR has different meanings of multi-writes in DB
-
-
-## Recovery objectives (RTO and RPO)
-![RTO-vs-RPO](https://docs.aws.amazon.com/images/whitepapers/latest/disaster-recovery-workloads-on-aws/images/recovery-objectives.png)
-
-### RTO
-the maximum acceptable delay between the interruption of service and restoration of service.
-![RTO-strategy](https://docs.aws.amazon.com/images/whitepapers/latest/disaster-recovery-workloads-on-aws/images/recovery-time-objective.png)
-
-### RPO
-Recovery Point Objective (RPO) is the maximum acceptable amount of time since the last data recovery point.
-
-![RPO](https://docs.aws.amazon.com/images/whitepapers/latest/disaster-recovery-workloads-on-aws/images/recovery-point-objective.png)
-
