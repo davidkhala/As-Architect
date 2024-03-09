@@ -2,6 +2,9 @@
 
 Business continuity plans (BCP) should be tested annually to ensure the plan is covering current operations
 
+For maximum resiliency, you should use only data plane operations as part of your failover operation.
+- data planes typically have higher availability design goals than the control planes. (LB vs API call)
+
 Focused on business objectives (business requirements, priorities, and context) than workload (technology)
 > An earthquake might prevent you from transporting products purchased on your eCommerce application – even if effective DR keeps your workload functioning, your BCP needs to accommodate transportation needs.
 

@@ -23,3 +23,5 @@ In essence, disaster recovery picks up when high availability fails, so **HA fir
 A case with DR but not HA
 - single standalone DB with continous backup
 
+# Ref
+[DR, FT and HA](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)

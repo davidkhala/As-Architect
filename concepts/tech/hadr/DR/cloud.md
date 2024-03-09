@@ -18,6 +18,7 @@ what can be better
 
 ## With multiple Regions
 - back up data and configuration (including infrastructure definition) to another Region
+- It is recommended you use a different account per Region in the case compromised credentials are part of your disaster recovery plans as well.
 
 # Ref
 
