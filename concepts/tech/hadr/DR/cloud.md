@@ -23,3 +23,5 @@ what can be better
 # Ref
 
 [AWS Well-Architected Framework - Reliability Pillar whitepaper](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
+
+Architect can reproduce product features provided by [AWS Resilience Hub](https://github.com/davidkhala/aws-collections/blob/main/architect/DR/resilience-hub.md) in a DR project
