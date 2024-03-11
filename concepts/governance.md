@@ -1,8 +1,7 @@
 # Governance
 
-The way in which decisions are made
+The way in which decisions are made, including manage, control
 
-manage, control, making deficiency?
 
 - model that connects people, processes, and technology to deliver value to the stakeholders
 - a structure for aligning IT strategy with business strategy
