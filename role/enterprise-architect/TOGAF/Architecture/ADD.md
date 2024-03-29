@@ -1,0 +1,15 @@
+# Architecture Definition Document
+- Scope
+- Goals, objectives, and constraints
+- Architecture Principles
+- Baseline Architecture
+- Architecture models
+  - Business Architecture models
+  - Data Architecture models
+  - Application Architecture models
+  - Technology Architecture models
+- Rationale and justification for architectural approach
+- Mapping to Architecture Repository: (Architecture Landscape, reference models, standards, Re-use assessment)
+- Gap analysis
+- Impact assessment
+- Transition Architecture:

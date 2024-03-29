@@ -12,3 +12,11 @@ Foundation --> Common Systems --> Industry --> Organization-Specific
 ### Architectures Continuum
 ![alt text](image-1.png)
 ### Solution Continuum
+
+
+### Architecture Principle
+
+Content
+- Statement
+- Rationale
+- Implications
