@@ -23,5 +23,9 @@ In essence, disaster recovery picks up when high availability fails, so **HA fir
 A case with DR but not HA
 - single standalone DB with continous backup
 
+# Dump
+Given most database have native backup support. Why we still need dump
+- The backup is managed in cloud without accessibility and flexibility to customize backup lifecycle. 
+
 # Ref
 [DR, FT and HA](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)
