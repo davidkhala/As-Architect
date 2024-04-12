@@ -27,5 +27,9 @@ A case with DR but not HA
 Given most database have native backup support. Why we still need dump
 - The backup is managed in cloud without accessibility and flexibility to customize backup lifecycle. 
 
+# Failover
+# Switchover 
+Similar to failover, except that it requires human intervention.
+
 # Ref
 [DR, FT and HA](https://www.lunavi.com/blog/high-availability-vs-fault-tolerance-vs-disaster-recovery)
