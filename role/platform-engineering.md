@@ -6,13 +6,17 @@
 	- Streamline application time-to-market, optimize operations, and improve efficiencies in development, deployment, management, and maintenance of applications, by building automated programs not man-power.
 	- Identify the pain points impacting development teams and mitigate them by providing common, reusable tools and capabilities
 ## Working domain
-build and maintain followings
+build and/or maintain followings
 - Enterprise capability reusables (Sales, Marketing, Customer Support, Accounting)
+  - Behavior infrastructure and continous assertation 
+  - Enterprise App (Enterprise Integration, ERP, HCM)
+  - Enterprise Architecture repository
 - Login (IAM federation, SAML)
 - Cloud (PaaS and SaaS) autonomous
 - Data platform and pipeline
 - 3rd party integration
 - Other scalable MVP
+
 ## Requirement
 Culture
 - Self-management
