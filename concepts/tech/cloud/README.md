@@ -1,5 +1,5 @@
 # Cloud Architecture Framework
-- [GCP]
+- [GCP](https://github.com/davidkhala/gcp-collections/wiki/Architecture-Design#cloud-architecture-framework)
 - [AWS]
 - [Azure]
 
