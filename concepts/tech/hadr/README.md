@@ -2,8 +2,9 @@
 Eliminating single points of failure
 - AWS: High Availability focuses on components of the workload
 
-
 Assume: The interconnections between your HA systems function perfectly
+
+Measure: uptime percentage, 99.95%
 
 ## Compare with DR
 In essence, disaster recovery picks up when high availability fails, so **HA first**. You should first ensure your workload meets your availability objectives
@@ -23,7 +24,9 @@ A case with DR but not HA
 The process of getting a system back to an operational state when a system is rendered inoperative.
 - AWS: disaster recovery focuses on discrete copies of the entire workload.
 
-
+Measures:
+- Recovery Time Objective (RTO): 容忍的业务停止服务的最长时间，与HA相关
+- Recovery Point Objective (RPO): 业务系统所能容忍的数据丢失量
 
 # Dump
 Given most database have native backup support. Why we still need dump
