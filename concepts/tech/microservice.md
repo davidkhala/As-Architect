@@ -23,4 +23,7 @@ Don't use microservice if you write application which is
 - to be built by single app dev team and/or with single schedules and milestones
 - to be built by organization and role is aligned by tech stacks (backend service dev, UI, middleware, DBA), not by business capability implemented by full stack dev
 - designed in infra mindset
+- achievable by method calls and module separations
+- designed to be portable that you can kill: [In many ways, microservices is a zombie architecture](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580?mkt_tok=OTE1LU5GRC0xMjgAAAGWC6FChKLDQ-AIxIaMIkfz__FvUGW5iGhUM8pjzENWOJ0rAS3-m_MJuNt4KkInDGLOL6ngvyM0pzxcLE24XaNHIUt2U0NhQJyXS-3pI-WcOg8JXjY)
+ 
 
