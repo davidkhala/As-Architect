@@ -17,3 +17,11 @@
 - A technical [Data Governance](https://github.com/davidkhala/data/tree/main/governance) role
 - titled as DBA, data modeler, ETL Dev, data engineer
 - Responsible for the safe custody, transport, storage of the data and implementation of business rules.
+
+# Data engineers
+- perform complex data processing and then curate and serve data sources
+# Data analyst
+- perform extensive downstream data transformations before creating reports.
+- This time-consuming process often lacks context to connect with data directly.
+# Data scientists
+- Integrate native data science techniques with existing data systems
