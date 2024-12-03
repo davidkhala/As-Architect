@@ -24,4 +24,4 @@
 - perform extensive downstream data transformations before creating reports.
 - This time-consuming process often lacks context to connect with data directly.
 # Data scientists
-- Integrate native data science techniques with existing data systems
+- Integrate native data science techniques (including Data mining) with existing data systems
