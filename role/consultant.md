@@ -6,3 +6,5 @@ The framework to build consulting slides
   - 每一页不能仅仅是对客观事物的描述，必须要产生观点
   - 所有的tagline必须是连续的，并能组成完整的storyline。
   ![image](https://github.com/user-attachments/assets/feff0bb3-37c9-48e2-873a-f94b53783b16)
+- Charts
+  - powered by [Think-cell](https://www.think-cell.com/)
