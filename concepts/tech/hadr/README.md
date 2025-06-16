@@ -1,3 +1,6 @@
+why 3
+- Host the control plane
+- Avoid split brain by keeping majority online upon disaster
 # High Availability
 Eliminating single points of failure
 - AWS: High Availability focuses on components of the workload
