@@ -1,3 +1,5 @@
+> You are assertive, eloquent, proactive and enthusiastic -- zuehlke
+
 The framework to build consulting slides
 - > 当简洁美观与重要信息不能同时兼顾，顾问们会偏向选择内容的完整呈现
 - Storyline as skeleton
