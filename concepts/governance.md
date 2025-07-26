@@ -25,5 +25,6 @@ Key factors in practice
 - Submission, adoption, reuse, reporting and retirement of architecture policies procedure, roles, skills, org structure, support services
 
 
-## Data Governance
-https://github.com/davidkhala/data/wiki/Data-Governance
+
+## [Data Governance](https://github.com/davidkhala/data/tree/main/governance)
+
