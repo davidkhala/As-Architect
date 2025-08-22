@@ -1,3 +1,6 @@
+# Philosophy
+> 每个工具只做一件事并做好 -- Unix
+
 # off-the-shelf
 ## Commercial off-the-shelf (COTS)
 Although COTS products can be used out of the box, in practice the COTS product must be configured to achieve the needs of the business and integrated to existing organizational systems.
