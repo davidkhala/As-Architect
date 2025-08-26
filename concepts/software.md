@@ -1,5 +1,3 @@
-# Philosophy
-> 每个工具只做一件事并做好 -- Unix
 
 # off-the-shelf
 ## Commercial off-the-shelf (COTS)
