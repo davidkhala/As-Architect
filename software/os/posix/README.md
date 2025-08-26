@@ -1,5 +1,7 @@
 # Portable Operating System Interface (POSIX)
-
+- bench on Unix
+- maintainence led by members from IEEE
+## Components
 It consists of
 - Base Definitions
   -	基础数据类型、常量、头文件等
@@ -9,5 +11,3 @@ It consists of
   - 命令行工具和 shell 行为规范
 - Rationale
   - 标准背后的设计理念和解释
-
-bench on Unix
