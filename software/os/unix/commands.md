@@ -31,6 +31,19 @@ list of common but non-POSIX commands
 - not prebuilt in AIX or Solaris
   - Solaris: RBAC
   - AIX: `su`
+
+# `w`
+显示登录用户的详细活动信息
+- introduced by BSD Unix
+- > It's a valuable tool for sysadmins.
+- As an extension of `who`, it shows
+  - user names
+  - their IP addresses
+  - when they logged in
+  - (what) processes they're currently running
+  - IDLE: how much time those processes are consuming. 
+
+
 # `less`
 
 Compared to [`more`](#more)
