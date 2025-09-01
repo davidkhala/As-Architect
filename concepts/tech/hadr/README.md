@@ -1,13 +1,11 @@
 why 3
 - Host the control plane
 - Avoid split brain by keeping majority online upon disaster
+- Robust to unplanned failure during planned maintenance time
 # High Availability
 Eliminating single points of failure
-- AWS: High Availability focuses on components of the workload
+- Measure: uptime percentage, 99.95%
 
-Assume: The interconnections between your HA systems function perfectly
-
-Measure: uptime percentage, 99.95%
 
 ## Compare with DR
 In essence, disaster recovery picks up when high availability fails, so **HA first**. You should first ensure your workload meets your availability objectives
