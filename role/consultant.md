@@ -1,3 +1,9 @@
+# Strategies
+- [HBR: Consulting on the Cusp of Disruption](https://hbr.org/2013/10/consulting-on-the-cusp-of-disruption)
+  - McKinsey Solutions：通过软件和数据分析工具为客户提供持续服务。而不是受限于项目期间
+  - 即使是最顶尖的知识型企业，也无法逃避技术变革的冲击。
+
+# Practice
 > You are assertive, eloquent, proactive and enthusiastic -- zuehlke
 
 The framework to build consulting slides
