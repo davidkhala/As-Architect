@@ -31,7 +31,10 @@ list of common but non-POSIX commands
 - not prebuilt in AIX or Solaris
   - Solaris: RBAC
   - AIX: `su`
-
+## sudo for windows
+- [source](https://github.com/microsoft/sudo)
+- [release blog](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
+  - starting from Windows 11 Insider Preview Build 26052
 # `w`
 显示登录用户的详细活动信息
 - introduced by BSD Unix
