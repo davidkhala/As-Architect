@@ -1,6 +1,6 @@
 # Technical errors in distributed systems
 Solutions
-- 2 phase commit (2pc)
+- [2 phase commit](./2pc.md)
 - You must make sure that you do not lose the pending changes before you can complete them
   - pending change be cached outside the place where we finally want to persist it
   - assume: the system will eventually recover from the error. And the pending change can be applied

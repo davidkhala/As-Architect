@@ -1,4 +1,3 @@
-![image](https://0097f9ca.flyingcdn.com/wp-content/uploads/2023/01/choreographed-microservice-architecture.png)
 
 - Loose coupling: Choreography allows microservices to be loosely coupled, which means they can operate independently and asynchronously without depending on a central coordinator. 
 

@@ -9,3 +9,7 @@ Applications that follow the Dependency Inversion Principle as well as the Domai
 [Cloud design pattern](https://github.com/davidkhala/cloud/tree/main/design)
 
 [migration design pattern](https://github.com/davidkhala/migration/wiki/Design-patterns)
+
+[event-driven design pattern](./tech/distributed/event-driven/design.md)
+
+[Distributed design pattern](./tech/distributed/design.md)
