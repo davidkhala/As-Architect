@@ -25,9 +25,4 @@ Enterprise Service Bus
 # modern ESB
 rebranded as [App Integration](https://github.com/davidkhala/app-integration)
 
-[wso2 ESB](https://wso2.com/enterprise-service-bus/)
-- provided by [WSO2 Micro Integrator](https://wso2.com/integration/micro-integrator/)
 
-
-[Mulesoft ESB]
-- provided by Anypoint Platform
