@@ -1,5 +1,5 @@
 
-# Austin CSRG
+# Austin Common Standards Revision Group (Austin CSRG)
 a joint technical working group
 - develop and maintain the core open systems interfaces including
   - [POSIX™ standards](./posix/README.md)
