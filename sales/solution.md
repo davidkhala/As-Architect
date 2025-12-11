@@ -18,5 +18,10 @@ You need to approach customer issues like the doctor who assessed Jack’s curre
 - Latent Pain: an issue the customer doesn’t even know exists or one they just ignore.
 - Vision Pain: an issue that the customer anticipates will happen in the future and wants to fix now.
 
+## Absolutely FABulous
+
+The Feature-Advantage-Benefit (FAB) approach focuses on connecting the features of your product to the specific advantages it provides and, ultimately, to the value it brings to the customer.
+
+Customers don’t care about features. They want to know what benefits they will receive. Don’t pitch the features. Understand the value to the customer and showcase the benefits for them!
 
 
