@@ -11,3 +11,12 @@ As you build the customer's confidence with your expertise, you'll agree on mutu
 
 As a Pre-Sales or Customer Engineer, you must proactively address these fears during the technical evaluation stage, providing the reassurance they need and helping the customer understand the risks or costs of doing nothing.
 
+## Spot the Pain
+
+You need to approach customer issues like the doctor who assessed Jack’s current health, explored hidden issues, and helped him understand the future consequences.
+- Current Pain
+- Latent Pain: an issue the customer doesn’t even know exists or one they just ignore.
+- Vision Pain: an issue that the customer anticipates will happen in the future and wants to fix now.
+
+
+
