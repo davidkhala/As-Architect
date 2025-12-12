@@ -25,3 +25,11 @@ The Feature-Advantage-Benefit (FAB) approach focuses on connecting the features 
 Customers don’t care about features. They want to know what benefits they will receive. Don’t pitch the features. Understand the value to the customer and showcase the benefits for them!
 
 
+# Gathering Evidence
+
+Scale | Type |Description and Example of Evidence
+---- | ---- | --- |
+0 | None |No information or support to back up a claim 
+1-3 | Soft | “We feel…”, “We’re told…”
+4-5 | Assumptive| 3rd party data (Gartner, Industry Associations, Research, etc.) other customers
+6-10 | Hard | Facts and figures from believable sources
