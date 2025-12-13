@@ -35,7 +35,7 @@ Consistency
 > AI systems can sometimes make decisions that are difficult to interpret, leading to a lack of transparency and accountability
 
 # Compliance
-Six Principles of Responsible AI (Microsoft)
+[Six Principles of Responsible AI (Microsoft)](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/3-six-principles-of-responsible-ai)
 <img src="https://github.com/user-attachments/assets/cca47e67-0adc-4280-a1d0-2aa467ae7c1a" />
 - Fairness: AI systems should treat all people fairly.
 - Reliability and safety: AI systems should perform reliably and safely.
