@@ -42,7 +42,10 @@ Consistency
 - Privacy and security: AI systems should be secure and respect privacy.
 - Inclusiveness: AI systems should empower everyone and engage people.
 - Transparency: AI systems should be understandable.
+  - Implementing transparency involves documenting data and models, creating explanatory interfaces, using AI debugging tools, constructing testing dashboards, and enabling logging and auditing. 
 - Accountability: People should be accountable for AI systems.
+  - > AI creators should be responsible for how their systems operate.
+  - > AI systems must be accountable to people, and companies deploying AI systems must take responsibility for their operation.
 
 
 
