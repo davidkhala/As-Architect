@@ -23,3 +23,28 @@ common mistakes
 - **when** too much information is presented at once, overwhelming the audience and hindering their understanding.
 - **impact** their ability to digest content.
 - **fix** by present information step-by-step using tools like pointers, zoom, or animations to guide audience attention effectively.
+
+# Managing your audience's brain and attention
+
+
+## Reptilian System of brain
+the most primitive part of the brain
+- responsible for survival instincts such as the fight or flight response. 
+- It reacts to fear, risk, and immediate threats, often leading to defensive or shutdown behaviors if triggered.
+
+Avoid activating the Reptilian System unnecessarily
+- encourages constructive engagement rather than fear is key to maintaining a meaningful connection.
+
+## Limbic System of Brain
+the emotional center of the brain
+- determining what captures our attention.
+- It acts as a gateway to emotions, influencing how we perceive and prioritize information.
+
+To effectively engage the Limbic System, it is essential to create a focused and emotionally resonant message. 
+- using techniques such as storytelling or highlighting relatable examples.
+- To spark creativity, feed your brain material like you're cramming for a tough test. Then stop thinking about the problem you want to solve. Go surfing or take a leisurely walk. Research shows that letting your mind wander fosters creativity.
+
+Time to breathe
+- meditation helps you spot and solve problems in creative ways. It promotes divergent thinking that gets novel ideas flowing.
+- meditation also makes you more open to considering new solutions. 
+
