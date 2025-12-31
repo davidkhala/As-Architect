@@ -48,3 +48,10 @@ Time to breathe
 - meditation helps you spot and solve problems in creative ways. It promotes divergent thinking that gets novel ideas flowing.
 - meditation also makes you more open to considering new solutions. 
 
+## Neocortex of Brain
+The most advanced part of the brain
+- responsible for higher-order functions such as memory, reasoning, and decision-making.
+- It processes information through repetition and association
+
+To leverage the Neocortex effectively, reinforce key points through repetition and use familiar language or concepts to build associations. 
+- This approach helps your audience retain information and connect it to their own motivations and needs, ensuring your message has a lasting impact.
