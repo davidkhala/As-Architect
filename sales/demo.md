@@ -11,3 +11,10 @@ As a Pre-Sales Engineer, the difference between winning and losing a competitive
 As experts in your field, it’s easy to fall into the trap of overloading buyers with information. 
 - The purpose of a demo is not to educate, teach, inform, or advise.
 - By focusing on the buyer’s core needs and tailoring your presentation, you can avoid overwhelming them.
+- aka. "Whole Meal at Once" Crime
+# Crimes and Corrections
+common mistakes
+## "So What" Crime
+**when** presenters fail to provide context or explain value
+**impact** the audience with confused, disengaged, frustrated or disconnected
+**fix** by the Tell-Show-Tell technique to set the context, involve the audience
