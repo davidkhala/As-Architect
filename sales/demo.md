@@ -15,6 +15,11 @@ As experts in your field, it’s easy to fall into the trap of overloading buyer
 # Crimes and Corrections
 common mistakes
 ## "So What" Crime
-**when** presenters fail to provide context or explain value
-**impact** the audience with confused, disengaged, frustrated or disconnected
-**fix** by the Tell-Show-Tell technique to set the context, involve the audience
+- **when** presenters fail to provide context or explain value
+- **impact** the audience with confused, disengaged, frustrated or disconnected
+- **fix** by the Tell-Show-Tell technique to set the context, involve the audience
+
+## "Whole Meal at Once" Crime
+- **when** too much information is presented at once, overwhelming the audience and hindering their understanding.
+- **impact** their ability to digest content.
+- **fix** by present information step-by-step using tools like pointers, zoom, or animations to guide audience attention effectively.
