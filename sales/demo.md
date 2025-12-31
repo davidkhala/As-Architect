@@ -57,3 +57,7 @@ To leverage the Neocortex effectively, reinforce key points through repetition a
 - This approach helps your audience retain information and connect it to their own motivations and needs, ensuring your message has a lasting impact.
 - > Memories stick when they connect to what we already know.
 - > Don't make your audience work to remember!
+
+# Visual Roadmap
+essential components for a Visual Roadmap?
+- Destination, route, status, and duration
