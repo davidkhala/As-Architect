@@ -1,5 +1,7 @@
 # Governance
 
+> Brake is the most important component of a racing car, it results into final faster record ---- IBM
+
 The way in which decisions are made, including manage, control
 
 
