@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Highly integrated with claude design
 """
 html_to_pptx.py — Convert 1920×1080 HTML slides into an editable PPTX.
 
