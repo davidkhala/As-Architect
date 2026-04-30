@@ -1,6 +1,6 @@
 # Mermaid
 基于文本的图表渲染工具
-- 用 JavaScript 写的
+- > It is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 - [home web](https://mermaid.js.org/)
   - [live editor](https://mermaid.live/)
   - Mermaid.js now lives at mermaid.ai
@@ -12,6 +12,8 @@
 
 - 
 # Community
+[Community integration list](https://mermaid.ai/open-source/ecosystem/integrations-community.html)
+
 Markdown
 ```mermaid
 sequenceDiagram
