@@ -88,6 +88,7 @@ Ideally, you should be regularly assessing the value, aligned to the client’s 
 A strong relationship with your client opens doors to upsell and cross-sell opportunities. 
 
 ## Drive Renewals
+> It costs 5X more to attract a new client than to keep an existing one.
 Before consideration of renewals, we need to get the client’s solution deployed.
 
 However, deploying an initial use case does not mean a customer is getting value, using it as a key part of the business, or that they are seeing positive results relative to their success metrics.
