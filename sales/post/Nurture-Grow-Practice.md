@@ -87,6 +87,15 @@ Ideally, you should be regularly assessing the value, aligned to the client’s 
 ## Upsell and Cross-Sell Opportunities
 A strong relationship with your client opens doors to upsell and cross-sell opportunities. 
 
+## Drive Renewals
+Before consideration of renewals, we need to get the client’s solution deployed.
 
+However, deploying an initial use case does not mean a customer is getting value, using it as a key part of the business, or that they are seeing positive results relative to their success metrics.
+- If a client is not using their full capacity or seeing value, there is the risk of dissatisfaction, disillusionment and potentially churn.
+- For SaaS it’s particularly critical as, renewals are key to growth and the path to profitability. 
+
+## Drive Referrals and New Business
+Satisfied clients who have a positive relationship with the IBM brand are more likely to refer new business to you.
+- Word-of-mouth referrals are highly effective and cost-efficient, as they leverage the trust and credibility established with existing clients.
 
 
