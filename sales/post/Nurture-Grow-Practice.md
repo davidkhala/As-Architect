@@ -1,3 +1,5 @@
+> Nurture and Grow are intertwined not only with each other, but with the deal progression itself.
+- People want to feel appreciated, and if they don’t, they will find another brand that will.
 # Nurture
 Nurture is about establishing trust and credibility, personalizing interactions, and maintaining regular engagement with clients to build a solid foundation.
 - Strong client relationships act as a barrier to entry for competitors, making it harder for them to poach clients.
@@ -65,10 +67,26 @@ Provide your long-term clients with early access to new products, features, solu
 Grow focuses on the financial benefits of achieving Nurture.
 - > Sellers too, build credibility, positioning themselves as an inquisitive, innovative, and forward thinkers that add value beyond the products or services you sell. This encourages clients to turn to them for strategic guidance and collaboration as they navigate their business.
 
+## Drive Adoption and Usage
+It's not enough for clients to simply purchase or install software; they need to
+- integrate it into their workflows
+- extract value from its capabilities
+- evolve and improve their business processes to include it.
 
-# Nurture and Grow Practice
+## Assess and Share Value
+Ideally, you should be regularly assessing the value, aligned to the client’s business goals and success metrics, and sharing the value achieved through reports, a shared dashboard at key stakeholder meetings.
+- Demonstrating return on investment (ROI) 
+- Triple Metric: to measure value at various levels of the organization.
+  - Corporate Metric
+  - Business Unit Metric
+  - Project Metric 
+## Anticipate Needs
+- identifying or proposing new use cases
 
-> Nurture and Grow are intertwined not only with each other, but with the deal progression itself.
-- People want to feel appreciated, and if they don’t, they will find another brand that will.
+
+## Upsell and Cross-Sell Opportunities
+A strong relationship with your client opens doors to upsell and cross-sell opportunities. 
+
+
 
 
