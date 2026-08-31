@@ -23,6 +23,8 @@ Value Based
 - Assess value realized.
   - Insist on ensuring the client achieves their expected outcomes and business value **after implementation**.
 
+## Create a long-term partnership plan
+> Position your company as a long-term technology partner rather than just a vendor 
 
 ## Be transparent and honest
 > Trust is built in drops and lost in buckets
